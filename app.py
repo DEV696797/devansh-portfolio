@@ -13,7 +13,7 @@ with open("style.css") as f:
         unsafe_allow_html=True
     )
 
-img = Image.open("assets/profile.jpg")
+img = Image.open("profile.jpg")
 
 col1,col2 = st.columns([1,2])
 

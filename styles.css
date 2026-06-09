@@ -1,0 +1,37 @@
+.main{
+    background:#0F0B1A;
+}
+
+.hero-title{
+    font-size:4rem;
+    font-weight:800;
+    color:#FFFFFF;
+    margin-bottom:0;
+}
+
+.hero-sub{
+    color:#BFA8FF;
+    font-size:1.3rem;
+}
+
+.metric-box{
+    background:#1B1430;
+    padding:20px;
+    border-radius:15px;
+    text-align:center;
+    border:1px solid #7C3AED;
+}
+
+.section-title{
+    color:#A78BFA;
+    font-size:2rem;
+    font-weight:700;
+    margin-top:40px;
+}
+
+.card{
+    background:#1B1430;
+    padding:20px;
+    border-radius:15px;
+    margin-bottom:15px;
+}
